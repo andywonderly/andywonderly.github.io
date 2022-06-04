@@ -41,6 +41,13 @@
   transform: translate(-50%, -50%);
 }
 
+.stbaboutcentered {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-22%, -50%);
+}
+
 .twitch .twitch-video {
   padding-top: 56.25%;
   position: relative;
